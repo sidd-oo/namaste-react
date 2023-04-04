@@ -1,0 +1,4 @@
+1. Sequence of script which we added in the lower part of body matters!
+2. React is a library, not framework. which means any application can use react in the smallest of it's part.
+3. If you want to inject the react object in the root, it will either add new react object to it or replace the old react obj if already something is present.
+4. React object later translates into DOM by the browser.
